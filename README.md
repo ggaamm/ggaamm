@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggaamm Gorker
 - 👀 I’m interested in AI, HW, SW, mobile and iOS 
 - 🌱 I’m currently learning new libraries in Python and Swift on Github
-- 💞️ I’m looking to collaborate on AI, HW, SW, mobile and iOS :) 
+- 💞️ I’m looking to collaborate on AI, HW, SW, mobile and iOS 
 - 📫 How to reach me AI, HW, SW, mobile and iOS, jk :) -> gorkeralp@gmail.com
 
 <!---
